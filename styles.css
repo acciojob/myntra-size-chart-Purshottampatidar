@@ -18,3 +18,13 @@ td{
 #t1,#t2,#t3{
 	text-align:left;
 }
+tbody>tr:nth-child(1){
+	background-color:#da9694;
+}
+tbody>tr:nth-child(2){
+	background-color:#f2dcdb;
+}
+tbody>tr:nth-child(3){
+	background-color:#d9d9d9;
+	
+}
